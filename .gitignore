@@ -1,0 +1,9 @@
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+
+# Ignore image files
+*.tif
+*.tiff
