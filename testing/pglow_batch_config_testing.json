@@ -1,8 +1,8 @@
-{"parameterfile": "/home/mscholz/Desktop/Code/PharaGlow/AnalysisParameters_1x",
-    "batchPath" : "/home/mscholz/Dropbox (Scholz Lab)/Shared/Data/MS0006_0_1000frames",
-    "outPath" : "/home/mscholz/Desktop/TestOutput_MS0006/",
-    "templateNotebook" : "/home/mscholz/Desktop/Code/PharaGlow/notebooks/PharaGlowHPC.ipynb",
-    "nWorkers": 10,
+{"parameterfile": "/Users/mo555/git/apps/PharaGlow/AnalysisParameters_1x",
+    "batchPath" : "/Users/mo555/git/apps/PharaGlow/demo_data/",
+    "outPath" : "/Users/mo555/git/apps/PharaGlow/demo_data/results",
+    "templateNotebook" : "/Users/mo555/git/tmp/testing/PharaGlowMain_testdata.ipynb",
+    "nWorkers": 5,
     "lawnPath" : "None",
     "depth":"uint8",
     "save_minimal": 1

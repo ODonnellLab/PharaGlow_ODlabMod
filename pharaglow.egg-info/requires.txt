@@ -1,0 +1,12 @@
+numpy
+scipy
+pyampd
+pandas
+pillow>=10.0.1
+pims
+scikit-image
+trackpy
+papermill
+matplotlib
+ipykernel
+imagecodecs
