@@ -712,6 +712,7 @@ Requires-Dist: papermill
 Requires-Dist: matplotlib
 Requires-Dist: ipykernel
 Requires-Dist: imagecodecs
+Requires-Dist: jupyter
 
 
 ![](examples/pglowLogo.png)

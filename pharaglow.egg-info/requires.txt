@@ -10,3 +10,4 @@ papermill
 matplotlib
 ipykernel
 imagecodecs
+jupyter
