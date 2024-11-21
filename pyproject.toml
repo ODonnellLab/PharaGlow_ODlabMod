@@ -16,7 +16,8 @@ dependencies = [
     "papermill",
     "matplotlib",
     "ipykernel",
-    "imagecodecs"
+    "imagecodecs",
+    "jupyter"
 ]
 license = {file = "LICENSE"}
 keywords = ["toolset", "tracking", "feeding", "behaviour", "pumping"]
