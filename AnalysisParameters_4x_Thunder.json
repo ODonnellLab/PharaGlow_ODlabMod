@@ -1,0 +1,18 @@
+{"subtract":1,
+"smooth": 1,
+"dilate": 2,
+"tfactor": 1,
+"thresholdWindow": 30,
+"bgWindow": 30,
+"length":100,
+"watershed": 100,
+"minSize":300,
+"maxSize":1500,
+"searchRange": 10,
+"memory": 30,
+"minimalDuration": 200,
+"widthStraight":10,
+"pad":5,
+"nPts":200,
+"linewidth":2
+}
